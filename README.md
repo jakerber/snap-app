@@ -6,13 +6,13 @@ Console:
 
 This is the home of SnapApp, where you can see all the snaps you have received from friends.
 
-![alt text](Frontend/images/Main View.jpg "Main View")
+![Image](images/settings-wire.jpg)
 
 Compose Snap Screen:
 
 This is where you compose a snap by either using your webcame or uploading a photo from your machine.
 
-![Image](./Frontend/images/Snap View.jpg)
+![Image](images/Snap View.jpg)
 
 Profile Screen:
 

@@ -6,7 +6,7 @@ Console:
 
 This is the home of SnapApp, where you can see all the snaps you have received from friends.
 
-![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Main View.png)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/MainView.png)
 
 Compose Snap Screen:
 

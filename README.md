@@ -1,4 +1,4 @@
-# Project Name
+# SnapApp
 
 SnapApp is a web application that allows users to send "captionable" pictures to other users that will disappear after they are seen by the receiving user. Think of Snapchat but in your web browser, allowing you to communicate with your friends and family from your computer whenever it is open and in front of you instead of having to get your phone out, unlock it, and search for Snapchat to get the job done. SnapApp's smooth interface and speed makes it great for messing with your friends when you need a break from studying or your phone is too far out of your reach. You can find the current version at https://snap.surge.sh/.
 
@@ -6,25 +6,25 @@ Console:
 
 This is the home of SnapApp, where you can see all the snaps you have received from friends.
 
-![Image](./images/Main View.jpg)
+![Image](./Frontend/images/Main View.jpg)
 
 Compose Snap Screen:
 
 This is where you compose a snap by either using your webcame or uploading a photo from your machine.
 
-![Image](./images/Snap View.jpg)
+![Image](./Frontend/images/Snap View.jpg)
 
 Profile Screen:
 
 This is where you can see information about yourself and your account so you can let your friends know your username so they can add you!
 
-![Image](./images/Profile View.jpg)
+![Image](./Frontend/images/Profile View.jpg)
 
 Friends Screen:
 
 This is where you can add friends! Crazy right?
 
-![Image](./images/Friends View.jpg)
+![Image](./Frontend/images/Friends View.jpg)
 
 
 

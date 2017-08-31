@@ -6,7 +6,7 @@ Console:
 
 This is the home of SnapApp, where you can see all the snaps you have received from friends.
 
-![Alt Text](./images/Main View.png?raw=true)
+![Alt Text](./images/Main View.png)
 
 Compose Snap Screen:
 

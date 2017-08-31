@@ -6,25 +6,25 @@ Console:
 
 This is the home of SnapApp, where you can see all the snaps you have received from friends.
 
-![Image](images/settings-wire.jpg)
+![Image](images/Main View.png)
 
 Compose Snap Screen:
 
 This is where you compose a snap by either using your webcame or uploading a photo from your machine.
 
-![Image](images/Snap View.jpg)
+![Image](images/Snap View.png)
 
 Profile Screen:
 
 This is where you can see information about yourself and your account so you can let your friends know your username so they can add you!
 
-![Image](./Frontend/images/Profile View.jpg)
+![Image](./Frontend/images/Profile View.png)
 
 Friends Screen:
 
 This is where you can add friends! Crazy right?
 
-![Image](./Frontend/images/Friends View.jpg)
+![Image](./Frontend/images/Friends View.png)
 
 
 

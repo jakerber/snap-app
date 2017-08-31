@@ -6,25 +6,25 @@ Console:
 
 This is the home of SnapApp, where you can see all the snaps you have received from friends.
 
-![Alt Text](./images/Main View.png)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Main View.png)
 
 Compose Snap Screen:
 
 This is where you compose a snap by either using your webcame or uploading a photo from your machine.
 
-![Alt Text](./images/Snap View.png?raw=true)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Snap View.png)
 
 Profile Screen:
 
 This is where you can see information about yourself and your account so you can let your friends know your username so they can add you!
 
-![Alt Text](./images/Profile View.png?raw=true)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Profile View.png)
 
 Friends Screen:
 
 This is where you can add friends! Crazy right?
 
-![Alt Text](./images/Friends View.png?raw=true)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Friends View.png)
 
 
 

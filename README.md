@@ -24,7 +24,7 @@ Friends Screen:
 
 This is where you can add friends! Crazy right?
 
-![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Friends View.png)
+![Alt Text]("http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Friends View.png")
 
 
 

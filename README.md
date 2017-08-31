@@ -12,19 +12,19 @@ Compose Snap Screen:
 
 This is where you compose a snap by either using your webcame or uploading a photo from your machine.
 
-![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Snap View.png)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/SnapView.png)
 
 Profile Screen:
 
 This is where you can see information about yourself and your account so you can let your friends know your username so they can add you!
 
-![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Profile View.png)
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/ProfileView.png)
 
 Friends Screen:
 
 This is where you can add friends! Crazy right?
 
-![Alt Text]("http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/Friends View.png")
+![Alt Text](http://www.cs.dartmouth.edu/~jkerber14/pictures/snap-app/FriendsView.png)
 
 
 
